@@ -38,3 +38,9 @@ security inspections to be executed consistently across multiple systems.
 
 This approach helps ensure that security controls are applied uniformly and
 that compliance checks can be performed efficiently and repeatedly.
+
+---
+
+⚠️ Note:
+GitHub PDF preview may not display some images correctly.
+Please download the PDF to view the full report.
